@@ -11,6 +11,7 @@
 This repository includes:
 - 🧮 JavaScript-based Data Structures & Algorithms  
 - ⚙️ Node.js Backend Projects  
-- ☁️ AWS Infrastructure-as-Code using Terraform & CDKTF, Serverless Framework, CloudFormation
+- ☁️ AWS Infrastructure-as-Code using Terraform & CDKTF, Serverless Framework, CloudFormation 
+- Many More
   
 ---
